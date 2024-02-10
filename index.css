@@ -1,12 +1,18 @@
 body{
-    background-image: url('ricee.webp');
-    background-size: 100% 100%;
+    background: linear-gradient(black 60%,#FFFFFF);
     font-family: "Lato", sans-serif;
     color: white;
 }
 
 header{
-height: 600px;
+    width: 100%;
+}
+
+.bolao{
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
 }
 
 main {
