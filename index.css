@@ -276,6 +276,10 @@ footer{
 
 @media screen and (max-width:768px){
 header{
-    height: 500px;
+    width: 100%;
+}
+
+main {
+    top: -80px;
 }
 }
